@@ -22,18 +22,7 @@ nupkg/
 !.vscode/launch.json
 !.vscode/extensions.json
 
-# Angular
-ClientApp/node_modules/
-ClientApp/dist/
-ClientApp/.angular/
-ClientApp/coverage/
-ClientApp/.sass-cache/
-ClientApp/connect.lock
-ClientApp/libpeerconnection.log
-ClientApp/npm-debug.log
-ClientApp/yarn-error.log
-ClientApp/testem.log
-ClientApp/typings/
+
 
 # Build results
 [Dd]ebug/
@@ -219,14 +208,7 @@ _pkginfo.txt
 # but keep track of directories ending in .cache
 !?*.[Cc]ache/
 
-# Others
-ClientApp/.sass-cache/
-ClientApp/connect.lock
-ClientApp/coverage/
-ClientApp/libpeerconnection.log
-ClientApp/npm-debug.log
-ClientApp/testem.log
-ClientApp/typings/
+
 
 # System Files
 .DS_Store
