@@ -1,0 +1,6 @@
+@MyFullStackApp_HostAddress = http://localhost:5129
+
+GET {{MyFullStackApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
